@@ -1,3 +1,5 @@
+<img src="612.png" alt="SnapSense Icon" width="512" height="512" />
+
 # SnapSense
 
 Нативное menu-bar приложение для macOS 14+ — «умный захватчик экрана».
