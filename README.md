@@ -1,4 +1,4 @@
-<img src="512.png" alt="SnapSense Icon" width="512" height="512" />
+<img src="512.png" alt="SnapSense Icon" width="96" height="96" />
 
 # SnapSense
 
