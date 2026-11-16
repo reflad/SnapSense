@@ -1,0 +1,13 @@
+# Xcode
+build/
+.build*/
+DerivedData/
+*.xc userdatad
+xcuserdata/
+*.xcscmblueprint
+
+# XcodeGen
+SnapSense.xcodeproj/
+
+# macOS
+.DS_Store
